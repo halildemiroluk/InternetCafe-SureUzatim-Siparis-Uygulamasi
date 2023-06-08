@@ -1,0 +1,15 @@
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\bin\Debug\İnterNetCafeOtomasyon.exe.config
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\bin\Debug\İnterNetCafeOtomasyon.exe
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\bin\Debug\İnterNetCafeOtomasyon.pdb
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.Properties.Resources.resources
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.exe
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.pdb
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.Form1.resources
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.kontrol_1.resources
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.kontrol_2.resources
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.kontrol_3.resources
+C:\Users\yasin\source\repos\İnterNetCafeOtomasyon\obj\Debug\İnterNetCafeOtomasyon.kontrol_4.resources
