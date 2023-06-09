@@ -32,9 +32,8 @@ Bu yöntem, müşterinin siparişini alır ve işletmeciye iletir. </br>
 *İşletmeci, müşterinin süresini uzatır ve süre uzatmanın başarılı olduğunu onaylar. </br>
 ![video4](https://github.com/halildemiroluk/InternetCafe-SureUzatim-Siparis-Uygulamasi/assets/104024673/1477a84e-25cb-421d-be2b-428349eb64ec)
 
-# YAPIM AŞAMALARI #
+# UYGULAMANIN YAPIMI #
 
-# 1-Aşama  (Tasarımlar)
 *Visual Studio Code'da yeni bir proje açın ve Windows Form Uygulaması (.NET Framework) seçin ve projeyi açın. </br>
 *Bu sayfa çıkıcaktır. şimdi özelliklere girip Start positionu (Center Screen) yapın  </br>
 *Ekranımız tam ekran olmasın diye maximize Box seçenegini false yapın </br>
